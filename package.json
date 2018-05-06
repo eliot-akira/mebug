@@ -1,0 +1,15 @@
+{
+  "name": "mebug",
+  "version": "0.0.1",
+  "description": "Logger",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+  },
+  "license": "MIT",
+  "author": "Eliot Akira",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliot-akira/mebug.git"
+  }
+}
